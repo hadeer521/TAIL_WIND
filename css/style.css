@@ -1,0 +1,38 @@
+
+body{font-family: monospace;}
+
+
+/* start header home section  */
+
+
+header{background-image: url(../images/download.jpg);
+    background-size: cover;
+    height:710px;
+    
+}
+
+
+header .content{
+    font-weight: 500;
+    padding: 50px 0px 100px 40px;}
+    
+/* end header home section  */
+
+/* start media home section  */
+.program-home{background:url(../images/Path\ 62.png),url(../images/i-love-my-job-so-much_329181-2178.png) ;
+    background-size: cover;
+height: fit-content;
+padding-bottom: 50px;
+}
+.program-home h3,p{font-family: 'Times New Roman', Times, serif;}
+
+
+/* end media home section  */
+
+
+/* start footer home section  */
+footer{background-image:url(../images/lan.png);
+font-family: 'Times New Roman', Times, serif;
+border-radius: 200px 200px 0 0;}
+
+/* end footer home section  */
